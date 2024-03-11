@@ -1,2 +1,2 @@
 print("Hello World")
-print(""data ass)
+print("data ass")
